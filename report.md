@@ -17,8 +17,8 @@
 2.1 DNS-серверы
 Используются DNS-серверы:
 
-`ns1.awsdns.com`,
-`ns2.awsdns.com`, предоставляемые Amazon Web Services.
+`mia.ns.cloudflare.com.`,
+`cartman.ns.cloudflare.com.`, предоставляемые CLOUDFLARENET.
 
 2.2 Топология сети
 Серверы сайта расположены в США, Европе и Азии для обеспечения низкого времени отклика пользователей по всему миру.
